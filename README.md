@@ -5,3 +5,5 @@ The first project in the curriculum of The Odin Project was to create a simple w
 Seeing my code coming to life, gives me flashbacks of the early 2000s when my parents bought the first computer. Hearing the modem sound and opening the browser was pure magic and building webpages on my own now, feels like entering this mysterious world.!
 
 [Uploading odin-recipes.gif…]()
+
+![odin-recipes](https://github.com/goobergirl87/odin-recipes/assets/97094267/338cc7d0-cd5d-40d3-9d56-886aefc89bf6)
